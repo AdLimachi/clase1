@@ -1,0 +1,42 @@
+*{
+    margin: 20px;
+}
+
+
+body {
+    font-family: Tahoma;
+  background-color: lightsteelblue;
+}
+
+h1 {
+    padding: 10px;
+    border: 15px;
+    border-style: dotted;
+    color: red;
+    text-decoration: underline;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-transform: uppercase;
+    text-align: center;
+}
+h2 {
+    padding: 20px;
+    border: 25px;
+    border-style: double;
+    color: blue;
+    text-decoration: overline;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+img {
+    width: 40%;
+
+
+    
+    
+
+}
+p {
+    color: red;
+    text-align: justify;
+    background-color: gold;
+}
